@@ -1,6 +1,6 @@
-# 2026-UTN-P2-Q1-325-R1-German_Ariel_Stadelman
+# 2026-UTN-P2-Q1-325-German_Ariel_Stadelman
 Repositorio dedicado a primer cuatri Programacion 2 DIV 325
-# 💻 Examen Parcial I | Programación II
+# 💻 Examen Parcial II | Programación II
 
 Repositorio oficial para la entrega del **Primer Parcial** de la cursada de Programación II (Tecnicatura Universitaria en Programación - UTN FRA).
 
@@ -43,7 +43,7 @@ Asegurate de tener instalado el **JDK 25** y que la variable de entorno `JAVA_HO
 
 #### 2. Clonado del Proyecto
 ```bash
-git clone https://github.com/theyermans/2026-UTN-P2-Q1-325-R1-German_Ariel_Stadelman
+git clone https://github.com/theyermans/2026-UTN-P2-Q1-325-German_Ariel_Stadelman
 ```
 
 #### 3. Apertura en NetBeans
