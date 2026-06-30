@@ -1,0 +1,6 @@
+===== REPORTE DE TRANSACCIONES ACTIVAS =====Fecha de emision: 30/06/2026 20:52:10
+Total mde socios registrados: 3
+Total de libros en catalogo 3
+Libros actualemtne disponibles: 3
+Prestamos activos en curso: 0
+Libro mas solicitado Recurso de Prueba 1 1 prestamos
