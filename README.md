@@ -16,7 +16,7 @@ Repositorio oficial para la entrega del **Primer Parcial** de la cursada de Prog
 | **Materia** | Programación II (P2) |
 | **División** | 325 |
 | **Ciclo Lectivo** | 2026 - Cuatrimestre 1 |
-| **Fecha de Examen** | Viernes 22 de mayo - 18:30hs |
+| **Fecha de Examen** | martes 30 de junio - 18:30hs |
 
 ---
 
@@ -24,13 +24,6 @@ Repositorio oficial para la entrega del **Primer Parcial** de la cursada de Prog
 *   **Lenguaje:** `Java 25 (LTS)`
 *   **Entorno de Desarrollo:** `Apache NetBeans`
 *   **Gestión de Dependencias:** `Ant`
-
----
-
-### 📊 Modelado (UML)
-El diseño de la solución está basado en el siguiente diagrama de clases, realizado con **UML Lettino**:
-
-![Diagrama UML](./uml.png) 
 
 ---
 
@@ -43,7 +36,7 @@ Asegurate de tener instalado el **JDK 25** y que la variable de entorno `JAVA_HO
 
 #### 2. Clonado del Proyecto
 ```bash
-git clone https://github.com/theyermans/2026-UTN-P2-Q1-325-P2-German_Ariel_Stadelman
+git clone https://github.com/JuanCruzReynoso/2026-UTN-P2-Q1-325-SimulacroP2-JuanCruz_Reynoso.git
 ```
 
 #### 3. Apertura en NetBeans
@@ -62,7 +55,6 @@ git clone https://github.com/theyermans/2026-UTN-P2-Q1-325-P2-German_Ariel_Stade
 *   `/src`: Código fuente organizado por paquetes.
 *   `/nbproject`: Archivos de configuración de NetBeans.
 *   `build.xml`: Script de automatización de Ant.
-*   `diagrama_uml.png`: Imagen del modelado de clases.
 *   `README.md`: Documentación del proyecto.
 
 ---
